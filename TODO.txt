@@ -1,0 +1,12 @@
+Captcha for contact form
+Info@newearthtime.newearthtime
+meta tags from coil.com
+head section from coil.com
+subset pure-min.css
+subset balloon-min.css
+minimise normalise.css
+minimise styles.css
+license text for lineto fonts
+review line-height (see Lineto guidance)
+clock script review: padding, calculations. comments, interval/rounding?
+touch up picture

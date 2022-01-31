@@ -1,0 +1,179 @@
+/* these fonts are licensed. they have been renamed to enable storage in public repository on github */
+
+@font-face {
+    font-family: "cxxmw-r";
+    src: url("../fonts/cxxmw-r.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "cxxmw-r";
+    src: url("../fonts/cxxmw-r.woff") format("woff");
+}
+
+@font-face {
+    font-family: "cxxs-rs";
+    src: url("../fonts/cxxs-rs.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "cxxs-rs";
+    src: url("../fonts/cxxs-rs.woff") format("woff");
+}
+
+@font-face {
+    font-family: "cxxs-bs";
+    src: url("../fonts/cxxs-bs.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "cxxs-bs";
+    src: url("../fonts/cxxs-bs.woff") format("woff");
+}
+
+
+/*******************************************************
+* Overall
+*******************************************************/
+
+html {
+    height: 100%;
+    font: 1em/1.5 "cxxs-rs";
+    margin: 0;
+    background-color: black;
+    background-image: url("../images/iss063e076166.jpg");
+    background-position-x: left;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    height: 100%;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*******************************************************
+/* Header
+ *******************************************************/
+
+.net-header {
+    flex: 1 0 auto;
+    /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+    background-color: transparent;
+}
+
+
+/*******************************************************
+/* Splash
+ *******************************************************/
+
+.net-splash-container {
+    flex: 1 0 auto;
+    /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+}
+
+.net-splash {
+    text-align: center;
+    padding: 0.5em;
+    padding-bottom: 50px;
+}
+
+.net-splash-head {
+    font-family: "cxxs-bs";
+    font-size: 1.8em;
+    margin-top: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1.5em;
+}
+
+.net-splash-clock {
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    padding: 1em;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.net-clock {
+    font-family: "cxxmw-r";
+}
+
+.net-clock-time {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+.net-clock-date {
+    font-size: 1.1em;
+    line-height: 1.313em;
+}
+
+.net-splash-subhead {
+    line-height: 1.5em;
+}
+
+
+/*******************************************************
+ * Footer
+ *******************************************************/
+
+.net-footer {
+    font-size: 0.75em;
+    color: rgba(255, 255, 255, 0.8);
+    flex-shrink: 0;
+    /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+    background-color: transparent;
+}
+
+.net-footer-left {
+    padding-left: 1em;
+    padding-top: 0;
+    padding-right: 1em;
+    padding-bottom: 0;
+    float: left;
+}
+
+.net-footer-center {
+    padding-left: 1em;
+    padding-top: 0;
+    padding-right: 1em;
+    padding-bottom: 0;
+}
+
+.net-footer-contact-link {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.net-footer-contact-link:visited {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.net-footer-mappin-button {
+    padding-left: 1em;
+    padding-top: 0;
+    padding-right: 1em;
+    padding-bottom: 0;
+    background-color: transparent;
+    box-shadow: none;
+    border: 0px;
+    float: right;
+}
+
+.net-footer-mappin {
+    fill: rgba(255, 255, 255, 0.8);
+    padding: 0px;
+    background-color: transparent;
+}
+
+
+/*******************************************************
+********************************************************/
