@@ -51,7 +51,7 @@
                     </span></div>
             </div>
             <p class="net-splash-subhead">
-                Earth is now a place. This place needs a new common language of time.
+                Earth is a place. This place needs a common language of time.
             </p>
             <p class="net-splash-subhead">
                 New Earth Time, or NET, is a proposed time standard which measures the global day in 360 degrees of
