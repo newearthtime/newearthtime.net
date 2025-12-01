@@ -54,8 +54,10 @@
                 Earth is a place. This place needs a common language of time.
             </p>
             <p class="net-splash-subhead">
-                New Earth Time, or NET, is a proposed time standard which measures the global day in 360 degrees of
+                New Earth Time, or NET, is a proposed global time standard which measures the global day in 360 degrees of
                 time. </p>
+            <p class="net-splash-subhead">
+                NET is simple. It takes Universal Time (UTC) and displays it as degrees of time. Local and global time use different measures so confusion is minimised.</p>
             <p class="net-splash-subhead">
                 NET runs alongside your local time. You can act locally in your time and globally in New Earth Time.
             </p>
