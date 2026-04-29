@@ -51,15 +51,19 @@
                     </span></div>
             </div>
             <p class="net-splash-subhead">
-                Earth is a place. This place needs a common language of time.
+                Earth is now a place. This place needs a new common time.
             </p>
             <p class="net-splash-subhead">
-                New Earth Time, or NET, is a proposed global time standard which measures the global day in 360 degrees of
-                time. </p>
+                New Earth Time, or NET, is a proposed time standard which measures the global day with 360 degrees of
+                time.</p>
             <p class="net-splash-subhead">
-                NET is simple. It takes Universal Time (UTC) and displays it as degrees of time. Local and global time use different measures so confusion is minimised.</p>
+                There is only one NET worldwide. It is calculated from Universal Time, so the NET day begins at 0° longitude, and 180° NET is equal to 12:00 UTC.
+                Each degree is 4 minutes long, and each degree is divided into sixty intervals of 4 seconds each.
+            </p>
             <p class="net-splash-subhead">
-                NET runs alongside your local time. You can act locally in your time and globally in New Earth Time.
+                It is that simple. </p>
+            <p class="net-splash-subhead">
+                NET runs right alongside your local time. You can act locally in your time, and globally in New Earth Time.
             </p>
         </div>
     </div>
@@ -73,7 +77,7 @@
             </button>
         </div>
         <div class="net-footer-left">
-            <p class="net-footer-copyrightlicense">&#169; 1999-2021 Mark Laugesen. You may freely use, copy, and distribute New Earth Time.</p>
+            <p class="net-footer-copyrightlicense">&#169; 2026 Mark Laugesen. MIT License.</p>
         </div>
         <div class="net-footer-center">
         <p class="net-footer-email"><script type="text/javascript" language="javascript">
