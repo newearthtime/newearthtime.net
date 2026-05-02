@@ -6,30 +6,14 @@
 }
 
 @font-face {
-    font-family: "cxxmw-r";
-    src: url("../fonts/cxxmw-r.woff") format("woff");
-}
-
-@font-face {
     font-family: "cxxs-rs";
     src: url("../fonts/cxxs-rs.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "cxxs-rs";
-    src: url("../fonts/cxxs-rs.woff") format("woff");
 }
 
 @font-face {
     font-family: "cxxs-bs";
     src: url("../fonts/cxxs-bs.woff2") format("woff2");
 }
-
-@font-face {
-    font-family: "cxxs-bs";
-    src: url("../fonts/cxxs-bs.woff") format("woff");
-}
-
 
 /*******************************************************
 * Overall
