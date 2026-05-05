@@ -54,16 +54,18 @@
                 Earth is now a place. This place needs a new common time.
             </p>
             <p class="net-splash-subhead">
-                New Earth Time, or NET, is a proposed time standard which measures the global day with 360 degrees of
-                time.</p>
+                New Earth Time, or NET, is a proposed World Time which measures the day with 360 degrees.</p>
             <p class="net-splash-subhead">
-                There is only one NET worldwide. It is calculated from Universal Time, so the NET day begins at 0° longitude, and 180° NET is equal to 12:00 UTC.
-                Each degree is 4 minutes long, and each degree is divided into sixty intervals of 4 seconds each.
+                There is only one NET worldwide. It is calculated from Universal Time or UTC. 12:00 UTC is 180° NET and 24:00/00:00 UTC is 360°/0° NET. Like UTC, the day begins in London.
             </p>
             <p class="net-splash-subhead">
-                It is that simple. </p>
+                Each degree is 4 minutes long or 15 degrees per hour. Each degree is divided into 60 intervals of 4 seconds.
+            </p>
             <p class="net-splash-subhead">
-                NET runs right alongside your local time. You can act locally in your time, and globally in New Earth Time.
+                It is that simple. 
+            </p>
+            <p class="net-splash-subhead">
+                New Earth Time uses a different scale. It is an abstract time. New Earth Time is not confused with other times. Act locally in your time and globally in New Earth Time.
             </p>
         </div>
     </div>
